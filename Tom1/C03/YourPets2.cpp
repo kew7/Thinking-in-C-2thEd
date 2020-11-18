@@ -11,7 +11,7 @@ int dog, cat, bird, fish;
 void f(int pet) {
   cout << "pet id number: " << pet << endl;
 }
-
+ 
 int main() {
   int i, j, k;
   cout << "f(): " << (long)&f << endl;
